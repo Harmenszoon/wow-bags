@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Bags
+## Author: Harmenszoon
+## Notes: Hides unavailable bonus slots in the Blizzard backpack.
+## Version: 0.1.0
+## Dependencies: Blizzard_UIPanels_Game
+
+Bags.lua
