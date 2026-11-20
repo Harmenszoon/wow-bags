@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Title: Bags
+## Title: Harmenszoon's Bags
 ## Author: Harmenszoon
 ## Notes: Hides unavailable bonus slots in the Blizzard backpack.
 ## Version: 0.1.0
